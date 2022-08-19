@@ -4,3 +4,5 @@ plugins:
 
 title: MA10 & MA10 mini wiki site
   description: 
+
+theme: jekyll-theme-slate
