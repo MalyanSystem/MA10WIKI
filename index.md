@@ -24,6 +24,7 @@ support!
 MA10 mini User Manual: 
 <embed src="https://malyansystem.github.io/ma10wiki/manual-ma10mini.pdf" type="application/pdf" />
 
+
 ## SDCard file
 
 You can download sdcard content from google drive link for [MA10mini](https://drive.google.com/file/d/1BaN6-xSl-wVWZxy11NHtjMq0_4DtFgz4/view?usp=sharing) and [MA10](https://drive.google.com/file/d/1uDF6UuBPYfWFkBjgCh28dX_BEGUVY2NM/view?usp=sharing).
