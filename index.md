@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome To Join Malyan Family!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ Thank you for choosing Malyan 3D Printer and start a
+pleasant journey with Malyan 3D Printer to turn your
+imagination into reality!
+ Please find software and user manual in the memory
+card come with our product, or you can download them
+from our wiki: ma10mini.mly.at. It is imperative that you
+read the operating instructions carefully before operating
+Malyan 3D Printer.
+ You can visit our wiki to find more support and FAQ. If
+you have further questions or advice, please write email to
+support@malyansys.com. 
+ We wish you have a good experience of using Malyan
+3D Printer and we are appreciated with your continuous
+support! 
 
-### Markdown
+## User Manual
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MA10 mini User Manual: 
+<object data="manual-ma10mini.pdf" width="800" height="1000" type='application/pdf'></object>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## SDCard file
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Manuel83/sample/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can download sdcard content from google drive link for [MA10mini](https://drive.google.com/file/d/1BaN6-xSl-wVWZxy11NHtjMq0_4DtFgz4/view?usp=sharing) and [MA10](https://drive.google.com/file/d/1uDF6UuBPYfWFkBjgCh28dX_BEGUVY2NM/view?usp=sharing).
