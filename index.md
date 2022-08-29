@@ -22,7 +22,7 @@ support!
 ## User Manual
 
 [MA10 mini User Manual](https://malyansystem.github.io/ma10wiki/manual-ma10mini.pdf): 
-<embed src="https://malyansystem.github.io/ma10wiki/manual-ma10mini.pdf" width="800" height="1000" type="application/pdf" />
+<embed src="https://malyansystem.github.io/ma10wiki/manual-ma10mini.pdf#toolbar=0&navpanes=0" width="800" height="1000" type="application/pdf" />
 
 
 ## SDCard file
