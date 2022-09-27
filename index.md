@@ -28,3 +28,7 @@ support!
 ## SDCard file
 
 You can download sdcard content from google drive link for [MA10mini](https://drive.google.com/file/d/1BaN6-xSl-wVWZxy11NHtjMq0_4DtFgz4/view?usp=sharing) and [MA10](https://drive.google.com/file/d/1uDF6UuBPYfWFkBjgCh28dX_BEGUVY2NM/view?usp=sharing).
+
+## FAQ and how-tos
+
+[Link to more information](qa)
