@@ -34,3 +34,5 @@ You can download sdcard content from google drive link for [MA10mini](https://dr
 [How to use with latest Cura(5.2.1)](cura521)
 
 [Link to more information](qa)
+[Firmware v102 for MA10mini](https://drive.google.com/file/d/1fjjC_LcOxsqX8XsB6NWLBcOOAvr_nj_-/view?usp=sharing)
+[Firmware v102 for MA10](https://drive.google.com/file/d/1L2_1-BQfKvpxA062JnNnNinIPuyzVhrF/view?usp=sharing)
